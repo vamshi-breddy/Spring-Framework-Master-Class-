@@ -1,0 +1,4 @@
+@ComponentScan is used to help the spring container to scan the components in the specified package
+
+
+whereas @SpringBootApplication annotation by default helps to the scan the components in its own package and the sub packages
